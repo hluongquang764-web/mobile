@@ -496,11 +496,8 @@ app/
     AndroidManifest.xml
 ```
 
-<!--
-  CHÈN ẢNH: Chụp cây thư mục bên trái Android Studio (mở rộng đủ java/ và res/layout/)
-  Tên file: images/cautruc_du_an.png
--->
-![Cấu trúc dự án](images/cautruc_du_an.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f95a699e-08e2-4641-84aa-ad198fee5387" />
+
 
 ### Activity 1 — About (MainActivity.java)
 
@@ -634,24 +631,4 @@ webView.loadUrl("https://k58kmt.tdh.io.vn?masv=K225480106010");
 
 ---
 
-# KẾT QUẢ CHẠY THỬ
 
-## MIT App Inventor
-
-| Screen | Chức năng | Kết quả |
-|--------|-----------|---------|
-| Screen1 | Hiển thị thông tin cá nhân, 2 nút chuyển màn hình | ✅ OK |
-| Screen2 | Giải PT bậc 2, nhập a=1 b=−5 c=6 | ✅ x1=3, x2=2 (đúng) |
-| Screen3 | WebView tải trang Apple Store VN | ✅ Load được |
-
-## Android Studio
-
-| Activity | Chức năng | Kết quả |
-|----------|-----------|---------|
-| MainActivity | Hiển thị thông tin, 2 nút chuyển Activity | ✅ OK |
-| GiaiToanActivity | Giải PT bậc 2, gửi API, nhận {ok,stt} | ✅ x1=3.0, x2=2.0 (đúng) |
-| WebViewActivity | WebView tải URL | ✅ OK (trên điện thoại thật) |
-
----
-
-*README được tạo bởi Lương Quang Hà — K225480106010 — 58KTPM*
