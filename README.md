@@ -167,6 +167,11 @@ when Button1.Click
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/85a1823b-b03c-4d90-91e2-e94557550838" />
 
 ---
+## Kết quả sau khi test app
+<img width="1290" height="2796" alt="image" src="https://github.com/user-attachments/assets/f3782d8f-a745-46be-aa0e-4703dbbdddaa" />
+<img width="1290" height="2796" alt="image" src="https://github.com/user-attachments/assets/9847ebc4-8aa0-41be-9a96-33b8443625e2" />
+<img width="1290" height="2796" alt="image" src="https://github.com/user-attachments/assets/9cbe4201-9824-4bcf-b79a-b21a53a14fe3" />
+---
 
 # PHẦN 2 - ANDROID STUDIO
 
