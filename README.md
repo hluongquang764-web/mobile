@@ -450,6 +450,9 @@ assets/
   }
 ]
 ```
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/acecd4b3-35d3-49a3-8b73-8384c67ae559" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6211a535-8d11-4d0e-bd22-ec3d776b8916" />
 
 **Thuật toán xử lý:**
 1. Đọc file JSON từ Assets bằng `AssetManager`
@@ -501,7 +504,8 @@ app/
     AndroidManifest.xml
 ```
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f95a699e-08e2-4641-84aa-ad198fee5387" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/169b6b77-4d8c-45ce-a7d5-4b0d1bd097b3" />
+
 
 
 ### Activity 1 — About (MainActivity.java)
@@ -533,7 +537,8 @@ public class MainActivity extends AppCompatActivity {
 ```
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0c1d3ece-b811-4753-b9f8-410598cd19ec" />
 
-<img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/cb767ead-2eef-43e7-a8c0-85a100626cb3" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7b1b0754-9b0f-4662-a04c-70d52926577b" />
+
 
 
 ---
