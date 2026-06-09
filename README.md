@@ -633,8 +633,11 @@ webView.setWebViewClient(new WebViewClient());
 webView.loadUrl("https://k58kmt.tdh.io.vn?masv=K225480106010");
 ```
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/87f54fe5-c536-4468-904c-06a545fd6d3e" />
+<img width="1920" height="1069" alt="image" src="https://github.com/user-attachments/assets/c0636d62-4f19-4167-aa97-25818e70e976" />
 
-<img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/88723b91-d379-4f5c-813f-4f7a34325542" />
+
+<img width="1920" height="1061" alt="image" src="https://github.com/user-attachments/assets/413b2ed3-d60d-414f-a969-f1350da2e45a" />
+
 
 
 *Lưu ý: Emulator không có kết nối internet thực nên hiển thị lỗi ERR_NAME_NOT_RESOLVED — trên điện thoại thật app sẽ tải đúng trang `k58kmt.tdh.io.vn`.*
