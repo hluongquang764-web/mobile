@@ -160,7 +160,7 @@ when Button1.Click
 
 **Giao diện (Designer):**
 - WebViewer: Width = Fill parent, Height = Fill parent
-- HomeUrl: `https://www.apple.com/vn/shop/buy-iphone`
+- HomeUrl: https://k58kmt.tdh.io.vn/?masv=K225480106081
 
 *(Screen3 không có Blocks vì WebViewer tự động tải trang web khi mở Screen)*
 
